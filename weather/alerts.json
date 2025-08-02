@@ -1,0 +1,9 @@
+{
+    "timestamp": "2025-08-02T12:06:20.968836",
+    "category": "Weather",
+    "priority": "Medium",
+    "item": "Heavy rainfall warning",
+    "quantity": "60",
+    "unit": "mm",
+    "notes": "Avoid travel after 3 PM"
+}
